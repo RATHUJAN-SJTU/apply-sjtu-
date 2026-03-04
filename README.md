@@ -1,5 +1,5 @@
 # 🌏 Shanghai Jiao Tong University (SJTU) – International Student Guide  
-### By [Your Name] | International Ambassador
+### By SriLankans | International Ambassador
 
 ---
 
@@ -15,9 +15,7 @@ This guide is created to help prospective international students understand:
 - 📩 Application Process
 - 🌍 Living Experience in China
 
-> ⚠️ Disclaimer: This is an independent informational guide created by a student ambassador and is not an official university website.
 
-Official Website: https://www.sjtu.edu.cn
 
 ---
 
